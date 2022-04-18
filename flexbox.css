@@ -6,7 +6,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #333;
-  background: url("../../css flexbox/mountains.jpg") no-repeat;
+  background: url("mountains.jpg") no-repeat;
 	background-size:cover;
 }
 
@@ -107,7 +107,7 @@ ul {
   margin-right: 10px;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 812px) {
   .header .container {
     flex-direction: column;
     padding-top: 20px;
